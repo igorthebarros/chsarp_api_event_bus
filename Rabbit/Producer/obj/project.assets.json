@@ -111,11 +111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Igor_\\Desktop\\Api_Event_Bus\\chsarp_api_event_bus\\API_Event\\Producer\\Producer.csproj",
+      "projectUniqueName": "C:\\Users\\Igor_\\Desktop\\Projects\\csharp_rabbitmq\\Rabbit\\Producer\\Producer.csproj",
       "projectName": "Producer",
-      "projectPath": "C:\\Users\\Igor_\\Desktop\\Api_Event_Bus\\chsarp_api_event_bus\\API_Event\\Producer\\Producer.csproj",
+      "projectPath": "C:\\Users\\Igor_\\Desktop\\Projects\\csharp_rabbitmq\\Rabbit\\Producer\\Producer.csproj",
       "packagesPath": "C:\\Users\\Igor_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Igor_\\Desktop\\Api_Event_Bus\\chsarp_api_event_bus\\API_Event\\Producer\\obj\\",
+      "outputPath": "C:\\Users\\Igor_\\Desktop\\Projects\\csharp_rabbitmq\\Rabbit\\Producer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Igor_\\AppData\\Roaming\\NuGet\\NuGet.Config",

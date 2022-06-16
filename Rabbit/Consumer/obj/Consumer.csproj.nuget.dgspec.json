@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Igor_\\Desktop\\Api_Event_Bus\\chsarp_api_event_bus\\API_Event\\Producer\\Producer.csproj": {}
+    "C:\\Users\\Igor_\\Desktop\\Projects\\csharp_rabbitmq\\Rabbit\\Consumer\\Consumer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Igor_\\Desktop\\Api_Event_Bus\\chsarp_api_event_bus\\API_Event\\Producer\\Producer.csproj": {
+    "C:\\Users\\Igor_\\Desktop\\Projects\\csharp_rabbitmq\\Rabbit\\Consumer\\Consumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Igor_\\Desktop\\Api_Event_Bus\\chsarp_api_event_bus\\API_Event\\Producer\\Producer.csproj",
-        "projectName": "Producer",
-        "projectPath": "C:\\Users\\Igor_\\Desktop\\Api_Event_Bus\\chsarp_api_event_bus\\API_Event\\Producer\\Producer.csproj",
+        "projectUniqueName": "C:\\Users\\Igor_\\Desktop\\Projects\\csharp_rabbitmq\\Rabbit\\Consumer\\Consumer.csproj",
+        "projectName": "Consumer",
+        "projectPath": "C:\\Users\\Igor_\\Desktop\\Projects\\csharp_rabbitmq\\Rabbit\\Consumer\\Consumer.csproj",
         "packagesPath": "C:\\Users\\Igor_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Igor_\\Desktop\\Api_Event_Bus\\chsarp_api_event_bus\\API_Event\\Producer\\obj\\",
+        "outputPath": "C:\\Users\\Igor_\\Desktop\\Projects\\csharp_rabbitmq\\Rabbit\\Consumer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Igor_\\AppData\\Roaming\\NuGet\\NuGet.Config",
