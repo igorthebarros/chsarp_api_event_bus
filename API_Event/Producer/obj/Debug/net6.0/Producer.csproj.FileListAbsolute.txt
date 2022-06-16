@@ -1,0 +1,17 @@
+C:\Users\Igor_\Desktop\Api_Event_Bus\chsarp_api_event_bus\API_Event\Producer\bin\Debug\net6.0\Producer.exe
+C:\Users\Igor_\Desktop\Api_Event_Bus\chsarp_api_event_bus\API_Event\Producer\bin\Debug\net6.0\Producer.deps.json
+C:\Users\Igor_\Desktop\Api_Event_Bus\chsarp_api_event_bus\API_Event\Producer\bin\Debug\net6.0\Producer.runtimeconfig.json
+C:\Users\Igor_\Desktop\Api_Event_Bus\chsarp_api_event_bus\API_Event\Producer\bin\Debug\net6.0\Producer.dll
+C:\Users\Igor_\Desktop\Api_Event_Bus\chsarp_api_event_bus\API_Event\Producer\bin\Debug\net6.0\Producer.pdb
+C:\Users\Igor_\Desktop\Api_Event_Bus\chsarp_api_event_bus\API_Event\Producer\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Igor_\Desktop\Api_Event_Bus\chsarp_api_event_bus\API_Event\Producer\obj\Debug\net6.0\Producer.csproj.AssemblyReference.cache
+C:\Users\Igor_\Desktop\Api_Event_Bus\chsarp_api_event_bus\API_Event\Producer\obj\Debug\net6.0\Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor_\Desktop\Api_Event_Bus\chsarp_api_event_bus\API_Event\Producer\obj\Debug\net6.0\Producer.AssemblyInfoInputs.cache
+C:\Users\Igor_\Desktop\Api_Event_Bus\chsarp_api_event_bus\API_Event\Producer\obj\Debug\net6.0\Producer.AssemblyInfo.cs
+C:\Users\Igor_\Desktop\Api_Event_Bus\chsarp_api_event_bus\API_Event\Producer\obj\Debug\net6.0\Producer.csproj.CoreCompileInputs.cache
+C:\Users\Igor_\Desktop\Api_Event_Bus\chsarp_api_event_bus\API_Event\Producer\obj\Debug\net6.0\Producer.csproj.CopyComplete
+C:\Users\Igor_\Desktop\Api_Event_Bus\chsarp_api_event_bus\API_Event\Producer\obj\Debug\net6.0\Producer.dll
+C:\Users\Igor_\Desktop\Api_Event_Bus\chsarp_api_event_bus\API_Event\Producer\obj\Debug\net6.0\refint\Producer.dll
+C:\Users\Igor_\Desktop\Api_Event_Bus\chsarp_api_event_bus\API_Event\Producer\obj\Debug\net6.0\Producer.pdb
+C:\Users\Igor_\Desktop\Api_Event_Bus\chsarp_api_event_bus\API_Event\Producer\obj\Debug\net6.0\Producer.genruntimeconfig.cache
+C:\Users\Igor_\Desktop\Api_Event_Bus\chsarp_api_event_bus\API_Event\Producer\obj\Debug\net6.0\ref\Producer.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HeJDjNiAtAstvuMEwTgAi9Y9eRG9rQNVr6mUrNbsu7/eZeKm4vFKlcEZ8caLaP4sOMpRHV0PwQ+9D5e4CAYAwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Igor_\\Desktop\\Api_Event_Bus\\chsarp_api_event_bus\\API_Event\\Producer\\Producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Igor_\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\Igor_\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Igor_\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
