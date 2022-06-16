@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y0VgZ9KIhdHFyGJZtyMlKcTaF3NOJK/T9sDuqkxutj1Jv6xDmP2lgo54T52nERlTVhDAUdGkcuVB6i2/iV0iUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Igor_\\Desktop\\Api_Event_Bus\\chsarp_api_event_bus\\API_Event\\API_Event\\API_Event.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Igor_\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Igor_\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Igor_\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
+    "C:\\Users\\Igor_\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Igor_\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Igor_\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Igor_\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
